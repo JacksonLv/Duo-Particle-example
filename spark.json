@@ -1,7 +1,7 @@
 {
-"name": "BLE",
+"name": "Duo",
 "author": "Jackson Lv <jianxing@redbear.cc>",
 "license": "MIT",
-"version": "0.2.2",
-"description": "Duo BlE example for particle"
+"version": "0.2.4",
+"description": "Duo Example for particle"
 }
